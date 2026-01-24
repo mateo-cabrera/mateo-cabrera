@@ -1,84 +1,63 @@
-# Hi there, I'm Mateo Cabrera 👋
-
-<!--
-**mateo-cabrera/mateo-cabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://mateo-cabrera.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Mateo+Cabrera;Full+Stack+Web+Developer;Game+Developer+(Godot%2FC%2B%2B);Student+@+Epitech" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://mateo-cabrera.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-mateo--cabrera.com-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-mateo--cabrera.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mateo-cabrera/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mateo.cabrera@epitech.eu">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br />
 
-I'm a **Full Stack Web & Mobile Developer** based in **Strasbourg, France**. Currently a 3rd-year student at **Epitech**, I am passionate about creating intuitive and high-performance applications. I love bridging the gap between clean code and great user experiences.
+<div align="center">
+  <p align="center">
+    I am a 20-year-old <b>Full Stack Developer</b> and <b>Student at Epitech</b> based in Strasbourg, France 🇫🇷.<br>
+    I bridge the gap between clean code and great user experiences, with a recent passion for <b>Game Development</b>.
+  </p>
+</div>
 
-Recently, I've also discovered a passion for **Game Development** (Godot/C++), exploring how to create immersive experiences in record time during Game Jams.
-
----
+<br />
 
 ### 🛠️ Tech Stack
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![GDScript](https://img.shields.io/badge/-GDScript-333333?style=flat&logo=godotengine)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,godot,react,svelte,nextjs,nodejs,bun,docker,git,postgres,sqlite,tailwind,linux&perline=8" />
+  </a>
+</div>
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=pocketbase&logoColor=black" />
+  <img src="https://img.shields.io/badge/ElysiaJS-FEF7FD?style=flat-square&logo=elysia&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+</div>
 
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![SvelteKit](https://img.shields.io/badge/-SvelteKit-333333?style=flat&logo=svelte)
-![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
-
-**Backend & Tools**
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
-![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun)
-![ElysiaJS](https://img.shields.io/badge/-ElysiaJS-333333?style=flat)
-![PocketBase](https://img.shields.io/badge/-PocketBase-333333?style=flat&logo=pocketbase)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
----
+<br />
 
 ### 🚀 Featured Projects
 
-#### 🎮 Game Dev
-*   **[Forge FeveR](https://github.com/mateo-cabrera/Forge-FeveR)** (GMTK Game Jam 2025) - A rhythmic roguelite game made with Godot.
-*   **[Unseen Anomaly](https://github.com/mateo-cabrera/unseen-anomaly)** (Godot Wild Jam #82) - Psychological horror observation game.
-*   **R-Type & R-Engine** - A custom C++ ECS Game Engine and multiplayer implementation of R-Type.
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **🎮 [Forge FeveR](https://github.com/mateo-cabrera/Forge-FeveR)** | A rhythmic roguelite game made for **GMTK Game Jam 2025**. Features an exponential "Fever" system and dynamic difficulty loops. | ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square) |
+| **📱 [AREA](https://github.com/Area-Organization/main-area)** | An automation suite (IFTTT clone) featuring a **React Native** mobile app, **SvelteKit** frontend, and **ElysiaJS** backend. | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **🎵 [Spotiflyx](https://github.com/Taker-Academy/spotiflyx-apanyan)** | A streaming platform merging Spotify and YouTube. Built with **Next.js**, **Go**, and **PostgreSQL**. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.dot.js&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **👁️ [Unseen Anomaly](https://github.com/mateo-cabrera/unseen-anomaly)** | A psychological horror observation game created for the **Godot Wild Jam #82**. | ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) |
+| **🚀 R-Type & Engine** | A custom **ECS Game Engine** written in C++ and a multiplayer implementation of the classic R-Type arcade game. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Network](https://img.shields.io/badge/-UDP%2FTCP-gray?style=flat-square) |
 
-#### 🌐 Web & Mobile
-*   **[AREA](https://github.com/Area-Organization/main-area)** - An automation suite (IFTTT clone) featuring a React Native mobile app, SvelteKit frontend, and ElysiaJS backend.
-*   **[Spotiflyx](https://github.com/Taker-Academy/spotiflyx-apanyan)** - Streaming platform merging Spotify and YouTube (Next.js/Go/PostgreSQL).
-*   **[Endless Paper Integration](https://endlesspaper.app)** - Developed a Chatbot with "Human in the Loop" features and an admin dashboard using SvelteKit & SSE.
-
----
+<br />
 
 ### 💼 Experience
 
-*   **Freelance Full-Stack Developer** (2024 - Present)
-    *   Building optimized landing pages and complex web/mobile apps using TypeScript, SvelteKit, and React Native.
-*   **Full-Stack Web Intern @ Endless Paper** (July 2024 - Dec 2024)
-    *   Developed an AI-assisted customer support chatbot and admin platform, reducing support tickets significantly.
+- **Freelance Full-Stack Developer** (2024 - Present)
+  - Building optimized landing pages and complex apps using **SvelteKit** & **React Native**.
+- **Full-Stack Web Intern @ [Endless Paper](https://endlesspaper.app)** (2024)
+  - Developed an AI-assisted customer support chatbot and admin platform using **SvelteKit** & **SSE**.

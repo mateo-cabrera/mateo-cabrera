@@ -72,7 +72,7 @@ Recently, I've also discovered a passion for **Game Development** (Godot/C++), e
 #### 🌐 Web & Mobile
 *   **[AREA](https://github.com/Area-Organization/main-area)** - An automation suite (IFTTT clone) featuring a React Native mobile app, SvelteKit frontend, and ElysiaJS backend.
 *   **[Spotiflyx](https://github.com/Taker-Academy/spotiflyx-apanyan)** - Streaming platform merging Spotify and YouTube (Next.js/Go/PostgreSQL).
-*   **Endless Paper Integration** - Developed a Chatbot with "Human in the Loop" features and an admin dashboard using SvelteKit & SSE.
+*   **[Endless Paper Integration](https://endlesspaper.app)** - Developed a Chatbot with "Human in the Loop" features and an admin dashboard using SvelteKit & SSE.
 
 ---
 
@@ -80,12 +80,5 @@ Recently, I've also discovered a passion for **Game Development** (Godot/C++), e
 
 *   **Freelance Full-Stack Developer** (2024 - Present)
     *   Building optimized landing pages and complex web/mobile apps using TypeScript, SvelteKit, and React Native.
-*   **Full-Stack Web Intern @ Epiphanie** (July 2024 - Dec 2024)
+*   **Full-Stack Web Intern @ Endless Paper** (July 2024 - Dec 2024)
     *   Developed an AI-assisted customer support chatbot and admin platform, reducing support tickets significantly.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateo-cabrera&show_icons=true&theme=dark&hide_border=true&bg_color=111111" alt="Mateo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateo-cabrera&layout=compact&theme=dark&hide_border=true&bg_color=111111" alt="Top Languages" />
-</div>

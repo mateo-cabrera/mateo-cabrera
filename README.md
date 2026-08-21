@@ -17,6 +17,6 @@ Osaka University in September 2026.
 - **Nanomaly** · micro-horror survival built in seven days for Brackeys Game Jam 2026.1. You shrink to the micron scale and the carpet becomes a jungle. [play](https://vanova.itch.io/nanomaly) · [code](https://github.com/mateo-cabrera/nanomaly)
 - **Forge FeveR** · rhythm arcade with a roguelite edge, for GMTK Game Jam 2025. [play](https://vanova.itch.io/forge-fever) · [code](https://github.com/mateo-cabrera/Forge-FeveR)
 - **Unseen Anomaly** · psychological horror built on observation, for Godot Wild Jam #82. [play](https://vanova.itch.io/unseen-anomaly) · [code](https://github.com/mateo-cabrera/unseen-anomaly)
-- **R-Engine** · a game engine on a strict ECS architecture in C++, with a multiplayer R-Type running on top of it. [code](https://github.com/Leorevoir/R-Engine)
+- **R-Type & R-Engine** · a game engine on a strict ECS architecture in C++, and the multiplayer R-Type that runs on it. [engine](https://github.com/Yutsuna/R-Engine) · [game](https://github.com/Yutsuna/R-Type)
 - **AREA** · an IFTTT-style automation suite. I built the React Native app and the Bun monorepo it lives in. [code](https://github.com/Area-Organization/main-area)
 - **mateo-cabrera.com** · my portfolio. The CV page and its PDF are printed from one content layer, so they cannot drift apart. [site](https://mateo-cabrera.com) · [code](https://github.com/mateo-cabrera/mateo-cabrera.com)

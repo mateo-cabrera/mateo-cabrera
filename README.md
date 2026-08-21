@@ -1,6 +1,6 @@
-Full-stack developer and game developer, from Strasbourg. I build web products at Epitech
-Academy and games at IWY Studio, the studio four of us are starting. Heading to Osaka
-University in September 2026.
+Full-stack developer and game developer, from Strasbourg. Freelance: I build Jump for
+Epitech Academy, and games at IWY Studio, the studio four of us are starting. Heading to
+Osaka University in September 2026.
 
 [portfolio](https://mateo-cabrera.com) ·
 [CV](https://mateo-cabrera.com/CV-Mateo-Cabrera.pdf) ·

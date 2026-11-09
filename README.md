@@ -1,6 +1,6 @@
-Full-stack developer and game developer, from Strasbourg. Freelance: I build Jump for
-Epitech Academy, and games at IWY Studio, the studio four of us are starting. Heading to
-Osaka University in September 2026.
+Full-stack developer and game developer, from Strasbourg, spending my fourth year at Osaka
+University. Freelance: I build Jump for Epitech Academy, and games at IWY Studio, the studio
+four of us started.
 
 [portfolio](https://mateo-cabrera.com) ·
 [CV](https://mateo-cabrera.com/CV-Mateo-Cabrera.pdf) ·
@@ -13,7 +13,7 @@ Osaka University in September 2026.
 ### Things I made
 
 - **Jump** · the platform Epitech Academy runs for its high-school work-experience placements, live on eight campuses. Product manager and lead dev, in a team of four. [write-up](https://mateo-cabrera.com/#travaux)
-- **Cozy Cargo** · a puzzle roguelike about packing boxes of comfort, where placement is the whole game. Godot 4, playable in the browser. [play](https://vanova.itch.io/cozy-cargo)
+- **Cozy Cargo** · a cozy roguelike about packing comforting parcels for people having a bad week, where placement is the whole game. Godot 4 and Steamworks; the free demo is out on Steam. [steam](https://store.steampowered.com/app/5247210/Cozy_Cargo/?utm_source=github&utm_medium=profile_readme&utm_campaign=demo_launch)
 - **Nanomaly** · micro-horror survival built in seven days for Brackeys Game Jam 2026.1. You shrink to the micron scale and the carpet becomes a jungle. [play](https://vanova.itch.io/nanomaly) · [code](https://github.com/mateo-cabrera/nanomaly)
 - **Forge FeveR** · rhythm arcade with a roguelite edge, for GMTK Game Jam 2025. [play](https://vanova.itch.io/forge-fever) · [code](https://github.com/mateo-cabrera/Forge-FeveR)
 - **Unseen Anomaly** · psychological horror built on observation, for Godot Wild Jam #82. [play](https://vanova.itch.io/unseen-anomaly) · [code](https://github.com/mateo-cabrera/unseen-anomaly)
